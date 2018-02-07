@@ -15,10 +15,15 @@ while(True):
 	print(menu)
 
 	choice = input()
-
-	if choice == '3':
+	if choice == '1':
+		from kaytlyn1 import *
+		questionone()
+	elif choice == '3':
 		from code import *
 		q3()
 	elif choice == '9':
 		break 
-
+	elif choice == '4':
+		from code import *
+		q4()
+	
