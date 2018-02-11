@@ -26,4 +26,9 @@ while(True):
 	elif choice == '4':
 		from code import *
 		q4()
-	
+	elif choice == '2':
+		from kaytlyn2 import *
+		numbertwo()
+	elif choice == '6':
+		from kaytlyn3 import *
+		numbersix()
