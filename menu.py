@@ -7,8 +7,8 @@ menu = """
 5. Calculate the remainder of a given numerator and denominator
 6. Return distinct values from a list including duplicates 
 7. Return distinct values and their counts
-8. Given a string of expressions and a set of variable/value pairs, return the result of the expression
-9. Exit menu
+8. Exit menu
+
 """ 
 
 while(True):
@@ -21,7 +21,7 @@ while(True):
 	elif choice == '3':
 		from code import *
 		q3()
-	elif choice == '9':
+	elif choice == '8':
 		break 
 	elif choice == '4':
 		from code import *
