@@ -32,3 +32,6 @@ while(True):
 	elif choice == '6':
 		from kaytlyn3 import *
 		numbersix()
+	elif choice == '5':
+		from q5 import *
+		question5()
