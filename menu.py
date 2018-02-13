@@ -6,7 +6,6 @@ menu = """
 4. Find the maximum value in a list
 5. Calculate the remainder of a given numerator and denominator
 6. Return distinct values from a list including duplicates 
-7. Return distinct values and their counts
 8. Exit menu
 
 """ 
